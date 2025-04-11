@@ -30,11 +30,27 @@ This repo is a collection of everything I've built, learned, and explored on my 
 
 ---
 
-## 📁 Folder Structure
+## 🔧 Tech Stack
 
-```bash
-React_Joureny/
-├── 1_CRA_Projects/       # Projects built using Create React App
-├── 2_Vite_Projects/      # Projects created using Vite + React
-├── 3_Pro_Level_Projects/ # Advanced, real-world apps
-├── README.md
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 Tailwind CSS / Styled-Components
+- 🌐 Axios / Fetch API
+- 🌍 React Router
+- 📦 Redux / Context API
+- 🚀 Vercel / Netlify (Deployment)
+
+---
+
+## 🌟 Goal
+
+> To become **job-ready**, build production-grade apps, and contribute to the open-source React ecosystem.
+
+---
+
+## 📣 Let's Connect
+
+If you're also learning React or want to collaborate, feel free to reach out!
+
+> Keep coding, keep growing 💻🔥  
+> — Apurba Dutta
